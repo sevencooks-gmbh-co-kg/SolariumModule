@@ -6,7 +6,7 @@
     "type": "zf2-module",
     "require": {
         "zendframework/zendframework": "2.*",
-        "solarium/solarium": "3.*"
+        "solarium/solarium": "4.*"
     },
     "autoload": {
         "psr-0": { "EwgoSolarium": "src/" },
